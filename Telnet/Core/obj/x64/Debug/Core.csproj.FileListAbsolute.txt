@@ -1,0 +1,4 @@
+C:\Development\THB-Terminal\Telnet\Core\bin\x64\Debug\Core.dll
+C:\Development\THB-Terminal\Telnet\Core\bin\x64\Debug\Core.pdb
+C:\Development\THB-Terminal\Telnet\Core\obj\x64\Debug\Core.dll
+C:\Development\THB-Terminal\Telnet\Core\obj\x64\Debug\Core.pdb

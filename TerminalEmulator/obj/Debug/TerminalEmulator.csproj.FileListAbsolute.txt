@@ -1,0 +1,15 @@
+D:\Development\TerminalEmulator\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\TerminalEmulator\obj\Debug\TerminalEmulator.rulechars.resources
+D:\Development\TerminalEmulator\obj\Debug\TerminalEmulator.csproj.GenerateResource.Cache
+D:\Development\TerminalEmulator\bin\Debug\TerminalEmulator.dll
+D:\Development\TerminalEmulator\bin\Debug\TerminalEmulator.pdb
+D:\Development\TerminalEmulator\bin\Debug\Core.dll
+D:\Development\TerminalEmulator\bin\Debug\Protocols.dll
+D:\Development\TerminalEmulator\bin\Debug\Telnet.exe
+D:\Development\TerminalEmulator\bin\Debug\Granados.dll
+D:\Development\TerminalEmulator\bin\Debug\Protocols.pdb
+D:\Development\TerminalEmulator\bin\Debug\Core.pdb
+D:\Development\TerminalEmulator\bin\Debug\Granados.pdb
+D:\Development\TerminalEmulator\bin\Debug\Telnet.pdb
+D:\Development\TerminalEmulator\obj\Debug\TerminalEmulator.dll
+D:\Development\TerminalEmulator\obj\Debug\TerminalEmulator.pdb

@@ -1,0 +1,16 @@
+D:\Development\TerminalSessions\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\TerminalSessions\bin\Debug\TerminalSessions.dll
+D:\Development\TerminalSessions\bin\Debug\TerminalSessions.pdb
+D:\Development\TerminalSessions\bin\Debug\Core.dll
+D:\Development\TerminalSessions\bin\Debug\Granados.dll
+D:\Development\TerminalSessions\bin\Debug\Protocols.dll
+D:\Development\TerminalSessions\bin\Debug\TerminalEmulator.dll
+D:\Development\TerminalSessions\bin\Debug\Telnet.exe
+D:\Development\TerminalSessions\bin\Debug\Protocols.pdb
+D:\Development\TerminalSessions\bin\Debug\Core.pdb
+D:\Development\TerminalSessions\bin\Debug\Granados.pdb
+D:\Development\TerminalSessions\bin\Debug\TerminalEmulator.pdb
+D:\Development\TerminalSessions\bin\Debug\Telnet.pdb
+D:\Development\TerminalSessions\obj\Debug\TerminalSessions.dll
+D:\Development\TerminalSessions\obj\Debug\TerminalSessions.pdb
+D:\Development\TerminalSessions\bin\Debug\TerminalSessions.tlb

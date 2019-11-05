@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Telnet">
+</Property><Property Name="Solution File" Value="D:\Development\THB-Terminal\Telnet\Telnet.sln">
+</Property><Property Name="Date" Value="Montag, 11. März 2013">
+</Property><Property Name="Time" Value="12:03">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Telnet" Source="Telnet.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Telnet" Source="Telnet.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Granados" Source="Granados\Granados.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Granados" Source="Granados\Granados.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TerminalEmulator" Source="..\TerminalEmulator\TerminalEmulator.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TerminalEmulator" Source="..\TerminalEmulator\TerminalEmulator.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Protocols" Source="..\Protocols\Protocols.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Protocols" Source="..\Protocols\Protocols.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TerminalSessions" Source="..\TerminalSessions\TerminalSessions.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TerminalSessions" Source="..\TerminalSessions\TerminalSessions.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Core" Source="Core\Core.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Core" Source="Core\Core.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleMain" Source="ConsoleMain\ConsoleMain.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleMain" Source="ConsoleMain\ConsoleMain.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TelnetSession" Source="TelnetSession\TelnetSession.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TelnetSession" Source="TelnetSession\TelnetSession.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Telnet.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Telnet.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Telnet" Source="Telnet.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Granados" Source="Granados\Granados.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TerminalEmulator" Source="..\TerminalEmulator\TerminalEmulator.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Protocols" Source="..\Protocols\Protocols.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TerminalSessions" Source="..\TerminalSessions\TerminalSessions.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Core" Source="Core\Core.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConsoleMain" Source="ConsoleMain\ConsoleMain.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TelnetSession" Source="TelnetSession\TelnetSession.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

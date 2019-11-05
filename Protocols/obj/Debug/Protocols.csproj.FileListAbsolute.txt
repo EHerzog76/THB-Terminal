@@ -1,0 +1,9 @@
+D:\Development\Protocols\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Protocols\bin\Debug\Protocols.dll
+D:\Development\Protocols\bin\Debug\Protocols.pdb
+D:\Development\Protocols\bin\Debug\Core.dll
+D:\Development\Protocols\bin\Debug\Granados.dll
+D:\Development\Protocols\bin\Debug\Core.pdb
+D:\Development\Protocols\bin\Debug\Granados.pdb
+D:\Development\Protocols\obj\Debug\Protocols.dll
+D:\Development\Protocols\obj\Debug\Protocols.pdb

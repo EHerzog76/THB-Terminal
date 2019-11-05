@@ -1,0 +1,13 @@
+Legal issues  
+
+This program is distributed in the hope that it will be useful, but without any warranty;
+without even the implied warranty of Merchantability or fitness for a particular
+purpose.
+
+
+Rechtliches  
+
+Dieses Programm wird kostenfrei verteilt: Dies geschieht in der Hoffnung, dass auch
+andere Benutzer es nützlich finden und für ihren Zweck einsetzen. Allerdings wird
+jede Gewährleistung (z.B. Funktionsfähigkeit, Folgeschäden) ausgeschlossen. Sie benutzen
+das Programm auf eigenes Risko.

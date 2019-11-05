@@ -1,0 +1,9 @@
+C:\Development\THB-Terminal\Protocols\bin\x64\Debug\Protocols.dll
+C:\Development\THB-Terminal\Protocols\bin\x64\Debug\Protocols.pdb
+C:\Development\THB-Terminal\Protocols\bin\x64\Debug\Core.dll
+C:\Development\THB-Terminal\Protocols\bin\x64\Debug\Granados.dll
+C:\Development\THB-Terminal\Protocols\bin\x64\Debug\Core.pdb
+C:\Development\THB-Terminal\Protocols\bin\x64\Debug\Granados.pdb
+C:\Development\THB-Terminal\Protocols\obj\x64\Debug\Protocols.csprojResolveAssemblyReference.cache
+C:\Development\THB-Terminal\Protocols\obj\x64\Debug\Protocols.dll
+C:\Development\THB-Terminal\Protocols\obj\x64\Debug\Protocols.pdb

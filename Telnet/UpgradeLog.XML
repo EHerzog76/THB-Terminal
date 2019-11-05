@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Telnet">
+</Property><Property Name="Solution File" Value="D:\Development\Telnet\Telnet.sln">
+</Property><Property Name="Date" Value="Dienstag, 08. Februar 2011">
+</Property><Property Name="Time" Value="10:37:11">
+</Property></Properties><Event ErrorLevel="0" Project="Telnet" Source="Telnet.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Telnet" Source="Telnet.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Telnet" Source="Telnet.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

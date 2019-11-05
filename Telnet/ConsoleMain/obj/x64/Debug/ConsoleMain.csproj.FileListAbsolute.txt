@@ -1,0 +1,17 @@
+C:\Development\THB-Terminal\Telnet\ConsoleMain\bin\x64\Debug\ConsoleMain.exe
+C:\Development\THB-Terminal\Telnet\ConsoleMain\bin\x64\Debug\ConsoleMain.pdb
+C:\Development\THB-Terminal\Telnet\ConsoleMain\bin\x64\Debug\Core.dll
+C:\Development\THB-Terminal\Telnet\ConsoleMain\bin\x64\Debug\Protocols.dll
+C:\Development\THB-Terminal\Telnet\ConsoleMain\bin\x64\Debug\TelnetSession.dll
+C:\Development\THB-Terminal\Telnet\ConsoleMain\bin\x64\Debug\TerminalEmulator.dll
+C:\Development\THB-Terminal\Telnet\ConsoleMain\bin\x64\Debug\TerminalSessions.dll
+C:\Development\THB-Terminal\Telnet\ConsoleMain\bin\x64\Debug\Granados.dll
+C:\Development\THB-Terminal\Telnet\ConsoleMain\bin\x64\Debug\Protocols.pdb
+C:\Development\THB-Terminal\Telnet\ConsoleMain\bin\x64\Debug\TerminalEmulator.pdb
+C:\Development\THB-Terminal\Telnet\ConsoleMain\bin\x64\Debug\TerminalSessions.pdb
+C:\Development\THB-Terminal\Telnet\ConsoleMain\bin\x64\Debug\Core.pdb
+C:\Development\THB-Terminal\Telnet\ConsoleMain\bin\x64\Debug\TelnetSession.pdb
+C:\Development\THB-Terminal\Telnet\ConsoleMain\bin\x64\Debug\Granados.pdb
+C:\Development\THB-Terminal\Telnet\ConsoleMain\obj\x64\Debug\ConsoleMain.csprojResolveAssemblyReference.cache
+C:\Development\THB-Terminal\Telnet\ConsoleMain\obj\x64\Debug\ConsoleMain.exe
+C:\Development\THB-Terminal\Telnet\ConsoleMain\obj\x64\Debug\ConsoleMain.pdb

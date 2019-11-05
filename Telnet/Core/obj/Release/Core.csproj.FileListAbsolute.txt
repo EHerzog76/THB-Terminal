@@ -1,0 +1,15 @@
+D:\Development\Telnet\Core\bin\Release\Core.dll
+D:\Development\Telnet\Core\bin\Release\Core.pdb
+D:\Development\Telnet\Core\obj\Release\ResolveAssemblyReference.cache
+D:\Development\Telnet\Core\obj\Release\Core.dll
+D:\Development\Telnet\Core\obj\Release\Core.pdb
+D:\Development\THB-Terminal\Telnet\Core\bin\Release\Core.dll
+D:\Development\THB-Terminal\Telnet\Core\bin\Release\Core.pdb
+D:\Development\THB-Terminal\Telnet\Core\obj\Release\ResolveAssemblyReference.cache
+D:\Development\THB-Terminal\Telnet\Core\obj\Release\Core.dll
+D:\Development\THB-Terminal\Telnet\Core\obj\Release\Core.pdb
+C:\Development\THB-Terminal\Telnet\Core\bin\Release\Core.dll
+C:\Development\THB-Terminal\Telnet\Core\bin\Release\Core.pdb
+C:\Development\THB-Terminal\Telnet\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Development\THB-Terminal\Telnet\Core\obj\Release\Core.dll
+C:\Development\THB-Terminal\Telnet\Core\obj\Release\Core.pdb

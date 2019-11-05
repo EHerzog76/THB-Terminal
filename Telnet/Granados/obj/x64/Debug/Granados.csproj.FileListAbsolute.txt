@@ -1,0 +1,7 @@
+C:\Development\THB-Terminal\Telnet\Granados\bin\x64\Debug\Granados.dll
+C:\Development\THB-Terminal\Telnet\Granados\bin\x64\Debug\Granados.pdb
+C:\Development\THB-Terminal\Telnet\Granados\obj\x64\Debug\Granados.strings.resources
+C:\Development\THB-Terminal\Telnet\Granados\obj\x64\Debug\Granados.strings_ja.resources
+C:\Development\THB-Terminal\Telnet\Granados\obj\x64\Debug\Granados.csproj.GenerateResource.Cache
+C:\Development\THB-Terminal\Telnet\Granados\obj\x64\Debug\Granados.dll
+C:\Development\THB-Terminal\Telnet\Granados\obj\x64\Debug\Granados.pdb

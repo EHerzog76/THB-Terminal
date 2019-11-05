@@ -1,0 +1,17 @@
+D:\Development\Telnet\ConsoleMain\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Telnet\ConsoleMain\bin\Debug\ConsoleMain.pdb
+D:\Development\Telnet\ConsoleMain\bin\Debug\Protocols.dll
+D:\Development\Telnet\ConsoleMain\bin\Debug\TerminalSessions.dll
+D:\Development\Telnet\ConsoleMain\bin\Debug\Granados.dll
+D:\Development\Telnet\ConsoleMain\bin\Debug\TerminalEmulator.dll
+D:\Development\Telnet\ConsoleMain\bin\Debug\Core.dll
+D:\Development\Telnet\ConsoleMain\bin\Debug\Granados.pdb
+D:\Development\Telnet\ConsoleMain\bin\Debug\TerminalSessions.pdb
+D:\Development\Telnet\ConsoleMain\bin\Debug\Protocols.pdb
+D:\Development\Telnet\ConsoleMain\bin\Debug\TerminalEmulator.pdb
+D:\Development\Telnet\ConsoleMain\bin\Debug\Core.pdb
+D:\Development\Telnet\ConsoleMain\obj\Debug\ConsoleMain.pdb
+D:\Development\Telnet\ConsoleMain\bin\Debug\ConsoleMain.exe
+D:\Development\Telnet\ConsoleMain\obj\Debug\ConsoleMain.exe
+D:\Development\Telnet\ConsoleMain\bin\Debug\TelnetSession.dll
+D:\Development\Telnet\ConsoleMain\bin\Debug\TelnetSession.pdb

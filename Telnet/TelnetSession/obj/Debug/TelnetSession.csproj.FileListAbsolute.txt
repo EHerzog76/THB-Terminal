@@ -1,0 +1,16 @@
+D:\Development\Telnet\TelnetSession\bin\Debug\TelnetSession.dll
+D:\Development\Telnet\TelnetSession\bin\Debug\TelnetSession.pdb
+D:\Development\Telnet\TelnetSession\bin\Debug\TelnetSession.tlb
+D:\Development\Telnet\TelnetSession\bin\Debug\Core.dll
+D:\Development\Telnet\TelnetSession\bin\Debug\Protocols.dll
+D:\Development\Telnet\TelnetSession\bin\Debug\TerminalSessions.dll
+D:\Development\Telnet\TelnetSession\bin\Debug\Granados.dll
+D:\Development\Telnet\TelnetSession\bin\Debug\TerminalEmulator.dll
+D:\Development\Telnet\TelnetSession\bin\Debug\TerminalSessions.pdb
+D:\Development\Telnet\TelnetSession\bin\Debug\Protocols.pdb
+D:\Development\Telnet\TelnetSession\bin\Debug\Core.pdb
+D:\Development\Telnet\TelnetSession\bin\Debug\Granados.pdb
+D:\Development\Telnet\TelnetSession\bin\Debug\TerminalEmulator.pdb
+D:\Development\Telnet\TelnetSession\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Telnet\TelnetSession\obj\Debug\TelnetSession.dll
+D:\Development\Telnet\TelnetSession\obj\Debug\TelnetSession.pdb

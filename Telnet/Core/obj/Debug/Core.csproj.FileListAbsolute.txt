@@ -1,0 +1,5 @@
+D:\Development\Telnet\Core\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Telnet\Core\bin\Debug\Core.dll
+D:\Development\Telnet\Core\bin\Debug\Core.pdb
+D:\Development\Telnet\Core\obj\Debug\Core.dll
+D:\Development\Telnet\Core\obj\Debug\Core.pdb

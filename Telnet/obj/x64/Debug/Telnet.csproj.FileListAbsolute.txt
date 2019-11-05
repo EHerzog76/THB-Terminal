@@ -1,0 +1,13 @@
+C:\Development\THB-Terminal\Telnet\bin\x64\Debug\Telnet.pdb
+C:\Development\THB-Terminal\Telnet\bin\x64\Debug\doc.xml
+C:\Development\THB-Terminal\Telnet\bin\x64\Debug\Core.dll
+C:\Development\THB-Terminal\Telnet\bin\x64\Debug\Granados.dll
+C:\Development\THB-Terminal\Telnet\bin\x64\Debug\Protocols.dll
+C:\Development\THB-Terminal\Telnet\bin\x64\Debug\Protocols.pdb
+C:\Development\THB-Terminal\Telnet\bin\x64\Debug\Core.pdb
+C:\Development\THB-Terminal\Telnet\bin\x64\Debug\Granados.pdb
+C:\Development\THB-Terminal\Telnet\obj\x64\Debug\Telnet.csprojResolveAssemblyReference.cache
+C:\Development\THB-Terminal\Telnet\obj\x64\Debug\Telnet.pdb
+C:\Development\THB-Terminal\Telnet\bin\x64\Debug\Telnet.dll.config
+C:\Development\THB-Terminal\Telnet\bin\x64\Debug\Telnet.dll
+C:\Development\THB-Terminal\Telnet\obj\x64\Debug\Telnet.dll

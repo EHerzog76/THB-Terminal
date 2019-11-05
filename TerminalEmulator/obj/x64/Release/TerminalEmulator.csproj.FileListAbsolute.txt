@@ -1,0 +1,15 @@
+C:\Development\THB-Terminal\TerminalEmulator\bin\x64\Release\TerminalEmulator.dll
+C:\Development\THB-Terminal\TerminalEmulator\bin\x64\Release\TerminalEmulator.pdb
+C:\Development\THB-Terminal\TerminalEmulator\bin\x64\Release\Core.dll
+C:\Development\THB-Terminal\TerminalEmulator\bin\x64\Release\Protocols.dll
+C:\Development\THB-Terminal\TerminalEmulator\bin\x64\Release\Core.pdb
+C:\Development\THB-Terminal\TerminalEmulator\obj\x64\Release\TerminalEmulator.dll
+C:\Development\THB-Terminal\TerminalEmulator\obj\x64\Release\TerminalEmulator.pdb
+C:\Development\THB-Terminal\TerminalEmulator\bin\x64\Release\Granados.dll
+C:\Development\THB-Terminal\TerminalEmulator\bin\x64\Release\Protocols.pdb
+C:\Development\THB-Terminal\TerminalEmulator\bin\x64\Release\Granados.pdb
+C:\Development\THB-Terminal\TerminalEmulator\bin\x64\Release\Telnet.dll
+C:\Development\THB-Terminal\TerminalEmulator\bin\x64\Release\Telnet.dll.config
+C:\Development\THB-Terminal\TerminalEmulator\obj\x64\Release\TerminalEmulator.csprojAssemblyReference.cache
+C:\Development\THB-Terminal\TerminalEmulator\obj\x64\Release\TerminalEmulator.csproj.CoreCompileInputs.cache
+C:\Development\THB-Terminal\TerminalEmulator\obj\x64\Release\TerminalEmulator.csproj.CopyComplete

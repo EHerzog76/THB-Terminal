@@ -1,0 +1,16 @@
+D:\Development\Poderosa-4.3.1b\Granados\bin\Debug\Granados.dll
+D:\Development\Poderosa-4.3.1b\Granados\bin\Debug\Granados.pdb
+D:\Development\Poderosa-4.3.1b\Granados\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Poderosa-4.3.1b\Granados\obj\Debug\Granados.strings.resources
+D:\Development\Poderosa-4.3.1b\Granados\obj\Debug\Granados.strings_ja.resources
+D:\Development\Poderosa-4.3.1b\Granados\obj\Debug\Granados.csproj.GenerateResource.Cache
+D:\Development\Poderosa-4.3.1b\Granados\obj\Debug\Granados.dll
+D:\Development\Poderosa-4.3.1b\Granados\obj\Debug\Granados.pdb
+D:\Development\Telnet\Granados\bin\Debug\Granados.dll
+D:\Development\Telnet\Granados\bin\Debug\Granados.pdb
+D:\Development\Telnet\Granados\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Telnet\Granados\obj\Debug\Granados.strings.resources
+D:\Development\Telnet\Granados\obj\Debug\Granados.strings_ja.resources
+D:\Development\Telnet\Granados\obj\Debug\Granados.csproj.GenerateResource.Cache
+D:\Development\Telnet\Granados\obj\Debug\Granados.dll
+D:\Development\Telnet\Granados\obj\Debug\Granados.pdb

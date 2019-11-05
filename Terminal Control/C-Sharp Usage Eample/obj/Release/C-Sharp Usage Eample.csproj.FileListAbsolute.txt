@@ -1,0 +1,10 @@
+D:\Development\Terminal Control\C-Sharp Usage Eample\bin\Release\C-Sharp Usage Eample.exe
+D:\Development\Terminal Control\C-Sharp Usage Eample\bin\Release\C-Sharp Usage Eample.pdb
+D:\Development\Terminal Control\C-Sharp Usage Eample\bin\Release\TerminalControl.dll
+D:\Development\Terminal Control\C-Sharp Usage Eample\bin\Release\TerminalControl.pdb
+D:\Development\Terminal Control\C-Sharp Usage Eample\obj\Release\ResolveAssemblyReference.cache
+D:\Development\Terminal Control\C-Sharp Usage Eample\obj\Release\C_Sharp_Usage_Eample.Form1.resources
+D:\Development\Terminal Control\C-Sharp Usage Eample\obj\Release\C_Sharp_Usage_Eample.Properties.Resources.resources
+D:\Development\Terminal Control\C-Sharp Usage Eample\obj\Release\C-Sharp Usage Eample.csproj.GenerateResource.Cache
+D:\Development\Terminal Control\C-Sharp Usage Eample\obj\Release\C-Sharp Usage Eample.exe
+D:\Development\Terminal Control\C-Sharp Usage Eample\obj\Release\C-Sharp Usage Eample.pdb
