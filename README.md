@@ -5,7 +5,7 @@ It supports ASCII-, ANSI-, VT100- and xTerm-Terminals.
 The base-object of the THB-Terminal is the CfgEngine object, which has builtin support for login- and prompt- handling.
 So you don´t have to check for a login-prompt, for the cli-prompt or for the --more--prompt and so on.
 
-## How to use THB-THB-Terminal
+## How to use THB-Terminal
 
 ###  with Powershell or Powershell-core
 ```
