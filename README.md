@@ -1,4 +1,4 @@
-#THB-Terminal
+# THB-Terminal
 Is a terminal-automation software.
 You can access remote devices over telnet- and ssh2-protocol.
 It supports ASCII-, ANSI-, VT100- and xTerm-Terminals.
